@@ -12,7 +12,7 @@ html, body, input, select, textarea, pre {
 
 body {
     overflow-x: hidden;
-    font-weight: 400;
+    font-weight: 300;
 }
 hr {
     width: 600px;
@@ -40,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 400;
+    font-weight: 300;
 }
 
 or: #{{ site.color.primary }};
@@ -147,7 +147,6 @@ section {
 section h2 {
     margin: 0;
     font-size: 3em;
-    color: #4a4a4a;
     text-transform: uppercase;
 }
 
@@ -170,16 +169,9 @@ section hr {
 .show-more {
     text-align: right;
 }
-#contact h2 {
-    margin-bottom: 30px;
+#videos .show-more a{
+    color: #fff;
 }
-
-.btn-success {
-    background-color: #2c3e50;
-    border-color: #2c3e50;
-    color: #ffffff;
-}
-
 .education-item {
     right: 0;
     margin: 0 0 15px;
