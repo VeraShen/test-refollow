@@ -167,7 +167,9 @@ section hr {
         padding-top: 75px;
     }
 }
-
+.show-more {
+    text-align: right;
+}
 #contact h2 {
     margin-bottom: 30px;
 }
