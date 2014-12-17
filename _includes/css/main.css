@@ -3,9 +3,6 @@
  * Thanks Freelancer Bootstrap Theme (http://jekyllthemes.org/themes/freelancer/)
  */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,300,600,700);
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
-
 html, body, input, select, textarea, pre {
     font-family: "Open Sans", "Trebuchet MS","Source Sans Pro",Arial,Helvetica,sans-serif,"Microsoft YaHei";
 }
